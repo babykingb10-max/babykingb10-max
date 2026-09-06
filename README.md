@@ -1,3 +1,4 @@
+
 <!-- HEADER BANNER WITH ANIMATED TYPING EFFECT -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Automation+Engineer;WhatsApp+Bot+%26+API+Architect;Cloud+Hosting+%26+SaaS+Builder" alt="Typing SVG" />
@@ -24,15 +25,18 @@
 
 ---
 
-### Good to see you
+### System Architecture & Ecosystem
 
 ```text
-    __        __   _                      
-    \ \      / /__| | ___ ___  _ __ ___   e  
-     \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \  e 
-      \ V  V /  __/ | (_| (_) | | | | | |   
-       \_/\_/ \___|_|\___\___/|_| |_| |_| 
-
+    [ YOUR DIGITAL ECOSYSTEM ]
+    ├── Core Platforms
+    │   ├── SaaS Dashboard  --> Cloud-based Node.js hosting platform
+    │   └── API Gateway     --> Public REST APIs for utility & automation
+    ├── Automation Engine
+    │   ├── WhatsApp Bot    --> Modular framework built on Node.js / Baileys
+    │   └── Webhooks        --> Real-time event handling & notification service
+    └── Infrastructure
+        └── Deployment      --> Docker containers, VPS, Nginx, PM2
 
 Tech Stack & Developer Tools
 <div align="center">
@@ -67,12 +71,12 @@ GitHub Analytics & Performance Metrics
 <div align="center">
 <br />
 <!-- GitHub Stats Card -->
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=babykingb10-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <!-- Top Languages Card -->
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babykingb10-max&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 <br /><br />
 <!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=babykingb10-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 Spotify Activity Integration
 <div align="center">
@@ -82,16 +86,13 @@ Spotify Activity Integration
 </div>
 Connect & Collaboration Channels
 <div align="center">
-<a href="https://wa.me/255675421210">
+<a href="https://wa.me/255754212110">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 <a href="mailto:adevosxtech@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://t.me/adevosX">
+<a href="https://t.me/adevosx">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 </div>
