@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=YOUR_USERNAME&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20Open%20Source&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=babykingb10-max&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20Open%20Source&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <!-- Profile views & rank badges -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff88&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=babykingb10-max&label=Profile%20Views&color=00ff88&style=flat-square" alt="profile views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Freelance-00ff88?style=flat-square&logoColor=white" />
 &nbsp;
