@@ -25,18 +25,14 @@
 
 ---
 
-### System Architecture & Ecosystem
+### Good to see you!
 
 ```text
-    [ YOUR DIGITAL ECOSYSTEM ]
-    ├── Core Platforms
-    │   ├── SaaS Dashboard  --> Cloud-based Node.js hosting platform
-    │   └── API Gateway     --> Public REST APIs for utility & automation
-    ├── Automation Engine
-    │   ├── WhatsApp Bot    --> Modular framework built on Node.js / Baileys
-    │   └── Webhooks        --> Real-time event handling & notification service
-    └── Infrastructure
-        └── Deployment      --> Docker containers, VPS, Nginx, PM2
+    __        __   _                      
+    \ \      / /__| | ___ ___  _ __ ___   e  
+     \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \  e 
+      \ V  V /  __/ | (_| (_) | | | | | |   
+       \_/\_/ \___|_|\___\___/|_| |_| |_|```
 
 Tech Stack & Developer Tools
 <div align="center">
