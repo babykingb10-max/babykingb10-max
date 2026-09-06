@@ -32,7 +32,7 @@
      \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \  e 
       \ V  V /  __/ | (_| (_) | | | | | |   
        \_/\_/ \___|_|\___\___/|_| |_| |_| 
-,
+
 
 Tech Stack & Developer Tools
 <div align="center">
@@ -82,16 +82,16 @@ Spotify Activity Integration
 </div>
 Connect & Collaboration Channels
 <div align="center">
-<a href="https://wa.me/YOUR_PHONE_NUMBER">
+<a href="https://wa.me/255675421210">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:adevosxtech@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/adevosX">
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 </div>
